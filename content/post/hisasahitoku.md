@@ -19,7 +19,7 @@ A set of configuration options are used for displaying the biography.
 ```
 [params]
   Author = "Author Name"
-  Avatar = "images/site-logo.svg"
+  Avatar = "images/gakusya.png"
   Biography = "A short description, a few sentences describing the author. Set
                the 'ShowBio' parameter to false to hide this."
   ShowBio = true        
