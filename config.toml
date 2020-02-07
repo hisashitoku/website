@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   Author = "Hisashi Toku"
   Description = "Description of website for head meta tag"
-  Subtitle = "府大研究室"
+  Subtitle = "府大博士研究室"
   Avatar = "images/gakusya.png"
   Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
   ShowBio = true
